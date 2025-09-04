@@ -1,15 +1,12 @@
 {
-  "name": "praticas01bungas",
+  "name": "pratica02",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx json-server db.json"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "json-server": "^1.0.0-beta.3"
-  }
+  "license": "ISC"
 }
